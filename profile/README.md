@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/45831/m/4k-stogram-logo.png?v=1617948609" width="200" alt="4K Stogram macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/4KStogram">
+ <img src="https://img.utdstc.com/icon/cee/56b/cee56b4b0ca4065bbf60bf1c125d067988a69b8066448b6e42528a09a555c193:200" width="200" alt="4K Stogram macOS application icon"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/4KStogram">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open 4K Stogram macOS page">
  </a><br><br>
  <div align="center">
@@ -15,7 +15,7 @@
  </div>
  </td>
  <td align="center" valign="middle">
- <img src="https://static.macupdate.com/screenshots/300931/m/4k-stogram-screenshot.png?v=1617948620" width="500" alt="4K Stogram interface showing main workspace">
+ <img src="https://www.chip.de/ii/3/1/4/0/4/4/8/1/cd31715c04e2ecb5.jpg" width="500" alt="4K Stogram interface showing main workspace">
  </td>
  </tr>
  </table>
